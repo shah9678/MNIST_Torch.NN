@@ -1,0 +1,2 @@
+num_conv_layers,num_filters,dropout_rate,accuracy,training_time
+1,10,0.2,89.25,58.74373412132263
